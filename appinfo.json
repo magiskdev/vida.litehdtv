@@ -4,7 +4,7 @@
 	"bgImage": "splashBackground.png",
 	"title": "Лайт HD TV",
 	"type": "web",
-	"version": "2.2.2",
+	"version": "2.3.0",
 	"splashBackground": "splashBackground.png",
 	"transparent": true,
 	"bgColor": "#FFFFFF",
