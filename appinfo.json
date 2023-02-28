@@ -1,0 +1,17 @@
+{
+	"icon": "smallIcon.png",
+	"main": "index.html",
+	"bgImage": "splashBackground.png",
+	"title": "Лайт HD TV",
+	"type": "web",
+	"version": "2.2.2",
+	"splashBackground": "splashBackground.png",
+	"transparent": true,
+	"bgColor": "#FFFFFF",
+	"vendor": "Lime",
+	"largeIcon": "largeIcon.png",
+	"iconColor": "#FFFFFF",
+	"id": "ru.lite.webostv",
+	"disableBackHistoryAPI": true,
+	"app_id": "lite"
+}
